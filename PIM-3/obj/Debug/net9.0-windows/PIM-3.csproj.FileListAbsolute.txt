@@ -1,0 +1,15 @@
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\bin\Debug\net9.0-windows\PIM-3.exe
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\bin\Debug\net9.0-windows\PIM-3.deps.json
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\bin\Debug\net9.0-windows\PIM-3.runtimeconfig.json
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\bin\Debug\net9.0-windows\PIM-3.dll
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\bin\Debug\net9.0-windows\PIM-3.pdb
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\PIM-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\PIM-3.AssemblyInfoInputs.cache
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\PIM-3.AssemblyInfo.cs
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\PIM-3.csproj.CoreCompileInputs.cache
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\PIM-3.sourcelink.json
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\PIM-3.dll
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\refint\PIM-3.dll
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\PIM-3.pdb
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\PIM-3.genruntimeconfig.cache
+C:\Users\caioe\OneDrive\Documentos\faculdade\projeto-pim\PIM-3\obj\Debug\net9.0-windows\ref\PIM-3.dll
